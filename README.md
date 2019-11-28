@@ -1,5 +1,5 @@
-## 线上Demo地址:[点这儿](http://m.douban.hao2.top/#/hot)
 
+## 线上Demo地址:[点这儿](http://m.douban.hao2.top/#/hot
 # vuex-demo
 
 ## Project setup
